@@ -1,0 +1,13 @@
+:: StoryTitle
+My Awesome Adventure
+
+:: StoryData
+{
+    "ifid": "YOUR-UNIQUE-IFID-HERE-GET-ONE-FROM-A-UUID-GENERATOR",
+    "format": "SugarCube",
+    "format-version": "2.36.1",
+    "zoom": 1
+}
+
+:: Start
+Your story starts here.
