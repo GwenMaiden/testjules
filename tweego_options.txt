@@ -1,0 +1,9 @@
+--output=dist/index.html
+--format=sugarcube-2
+--story-format=storyformats/sugarcube-2/format.js
+# You can also add --head=src/head.html if you have custom HTML for the <head>
+
+# Source files and directories
+src/
+src/javascript.js
+src/style.css

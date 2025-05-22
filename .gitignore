@@ -1,0 +1,17 @@
+# Compiled output
+dist/
+*.html
+
+# Twee compiler backup files (if any)
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Node modules (if you use Node.js for tooling)
+node_modules/
+
+# IDE-specific files
+.vscode/
+.idea/
